@@ -1,0 +1,21 @@
+INFO:root:GET Test Started
+INFO:root:Status Code: 200
+INFO:root:sunt aut facere repellat provident occaecati excepturi optio reprehenderit
+INFO:root:GET Test Completed
+INFO:root:POST Test Started
+INFO:root:Status Code: 201
+INFO:root:POST Test Completed
+INFO:root:GET Test Started
+INFO:root:Status Code: 200
+INFO:root:sunt aut facere repellat provident occaecati excepturi optio reprehenderit
+INFO:root:GET Test Completed
+INFO:root:POST Test Started
+INFO:root:Status Code: 201
+INFO:root:POST Test Completed
+INFO:root:GET Test Started
+INFO:root:Status Code: 200
+INFO:root:sunt aut facere repellat provident occaecati excepturi optio reprehenderit
+INFO:root:GET Test Completed
+INFO:root:POST Test Started
+INFO:root:Status Code: 201
+INFO:root:POST Test Completed
